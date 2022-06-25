@@ -8,6 +8,7 @@ module.exports = {
         transparent: 'transparent',
       current: 'currentColor',
       'white': '#ffffff',
+Externals
       'Paint_Dark': {
         100: '#980F5A',
         200: '#750550',
@@ -30,6 +31,7 @@ module.exports = {
           403: '#F90716',
           500: '#000000',
           },
+main
       }
     },
   },
