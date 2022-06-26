@@ -6,10 +6,9 @@
 @layer{
   .sidebar-icon{
     @apply relative flex items-center justify-center
-    h-12 w-12 mt-2 mb-2 mx-auto shadow-lg
-  /*bg-gray-600 -->*/ 
-   text-pink-400 bg-tahiti-500
-    hover:bg-gray-300 hover:text-pink-600
+    h-12 w-12 mt-2 mb-2 mx-auto shadow-lg 
+   text-Paint_Dark-0 bg-Paint_Dark-100
+    hover:bg-gray-300 hover:text-Paint_Dark-100
     rounded-3xl hover:rounded-xl
     transition-all duration-200 ease-linear;
   }
