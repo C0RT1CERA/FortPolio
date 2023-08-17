@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T23:47:55.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="hAlT93hyuiu-SI-UyJw1" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T00:00:07.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SZVzA1sVAVRe7S1jR2uk" version="21.6.8" type="github">
   <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
-    <mxGraphModel dx="1732" dy="2079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2887" dy="2639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -53,9 +53,6 @@
         </mxCell>
         <mxCell id="1y28jx78B81ABTf8jZqV-3" value="&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#ffffff&quot;&gt;&lt;u&gt;&lt;b&gt;Unleashing the Power of AWS S3&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="60" y="-110" width="430" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="1y28jx78B81ABTf8jZqV-4" value="Variables&lt;br&gt;&lt;div&gt;base = 272829&lt;/div&gt;&lt;div&gt;experiment1 = 61677A&lt;/div&gt;&lt;div&gt;experiment2 = D8D9DA&lt;/div&gt;&lt;div&gt;~base = FFF6E0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;p_h1 = &quot;can you make steps for this? which focuses s3 bucket.&quot;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=bottom;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=top;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="40" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1y28jx78B81ABTf8jZqV-5" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;Seamless Integration with Lambda, SageMaker, Athena, and Billing Optimization&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="209" y="20" width="391" height="20" as="geometry" />
